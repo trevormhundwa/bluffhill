@@ -105,7 +105,7 @@
                     <div class="venue-categories-block zoomimg">
                         <div class="venue-categories-img">
                             <a href="#">
-                                <img src="http://via.placeholder.com/750x440" alt="" class="img-fluid">
+                                <img src="http://via.placeholder.com/920x500" alt="" class="img-fluid">
                             </a>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
                                     </a>
                                      
                                 </div>
@@ -127,7 +127,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
                                     </a>
                                      
                                 </div>
@@ -139,7 +139,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
                                     </a>
                                      
                                 </div>
@@ -149,7 +149,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
                                     </a>
                                      
                                 </div>
