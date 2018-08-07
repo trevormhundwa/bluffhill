@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::resource('/','PagesController');
+Route::get('/corporate-events','PagesController@corporate');
+Route::get('/wedding-parties','PagesController@wedding');
+Route::get('/private-parties','PagesController@privateParties');
