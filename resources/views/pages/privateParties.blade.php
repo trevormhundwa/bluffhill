@@ -72,14 +72,11 @@
                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12 mb20">
                     <h2 class="welcomeText"><strong><span class="firstLetter">P</span>rivate Parties</strong></h2>
                     <p>
-                        The Events Company specialise in corporate events and have been wowing clients throughout the UK and Europe for over a decade. Why not come to us for all your corporate entertainment ideas? Whether you have a Charity Dinner, Christmas Party, Exhibition or Summer Ball, we have the corporate entertainment ideas that add that extra sparkle and glitz to make your event stand out from the crowd.
-                    </p>
+                        Do you have a special day coming up? We provide event management for those special days in your life. We help you create memorable events that will stay with you and your friends for a lifetime. We have private paties that range from 21st birthday parties to 25 year anniversary parties.                    </p>
                     <p>
-                        Why not get your pulses racing with a ‘day at the races’ corporate race night? Or zip around the track with our giant Scalextrics, just one of many exciting events available from our big indoor games packages.
-
-                    </p>
-                    <p>
-                        Building the perfect corporate event takes time and resources, why not choose from the selection below to get corporate entertainment ideas for your next event. For further advise, call our event architects who design bespoke events from the ground up!
+                        We provide you with tents, chairs, lighting and anything else you require to make the most of your party. Through working together wiith our clients be believe we can create an event that everyone can be proud of
+<br>
+                        Have a look at some of the events we have hosted below.
                     </p>
                 </div>
                 <!-- /.feature-1 -->
@@ -96,7 +93,7 @@
                     <div class="section-title text-center">
                         <!-- section title start-->
                         <h2 class="welcomeText mb10"><strong><span class="firstLetter">O</span>ur Past Events</strong></h2>
-                        <p>You can browse some of our previous corporate events</p>
+                        <p>You can browse some of our previous private parties</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -107,7 +104,7 @@
                     <div class="venue-categories-block zoomimg">
                         <div class="venue-categories-img">
                             <a href="#">
-                                <img src="http://via.placeholder.com/750x440" alt="" class="img-fluid">
+                                <img src="http://via.placeholder.com/750x450" alt="" class="img-fluid">
                             </a>
                         </div>
                     </div>
@@ -119,17 +116,17 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
+                        <div class="col-xl-6 col-lg-6 col-sm-6">
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
@@ -141,7 +138,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
@@ -151,7 +148,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>

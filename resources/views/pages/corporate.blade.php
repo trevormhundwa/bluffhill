@@ -3,53 +3,28 @@
 @section('hero')
     <!-- hero-section -->
     <div class="hero-section">
-        <div class="container">
+        <div class="">
             <div class="row">
-                <div class="offset-xl-1 col-xl-10 offset-lg-1 col-lg-10 col-md-12 col-sm-12 col-12">
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12" style="z-index: 99" >
                     <!-- search-block -->
                     <div class="search-block">
-                        <div class="text-center search-head">
-                            <h1 class="hero-text">Corporate Events</h1>
-                            <p class="d-none d-xl-block d-lg-block d-sm-block">Enquire below about our corporate events</p>
+                        <div class="search-head text-center">
+                        <h1 class="welcomeText">
+                            <strong><span class="firstLetter">C</span>orporate <span class="firstLetter">E</span>Events </strong>
+                            <br>
                             <a href="#" class="btn btn-primary submitButton"  data-toggle="modal" data-target="#exampleModal">Get in touch</a>
+
+                        </h1>
+                        
+                    <!-- Modal -->
+                    @component('components.modal')
+                    
+                    @endcomponent
+
                         </div>
                         <!-- /.search-block -->
                     </div>
-                    <!-- Modal -->
-                    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Get In Touch</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-
-                                    <form>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Full Name</label>
-                                            <input type="text" class="form-control" id="name" aria-describedby="full name" placeholder="Your Name Here">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Phone Number</label>
-                                            <input type="text" class="form-control" id="phoneNum" aria-describedby="phoneNum" placeholder="0772 123 123">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Email address</label>
-                                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="example@email.com">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Email address</label>
-                                            <textarea class="form-control" rows="3"></textarea>
-                                        </div>
-                                        <button type="button" class="btn btn-secondary">Submit</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -67,12 +42,13 @@
             <div class="row">
                 <!-- feature-1 -->
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 mb20">
-                    <img src="http://via.placeholder.com/360x260" alt="" class="img-fluid mb20">
+                    <img src="{{asset('images/champagne.jpg')}}" alt="" class="img-fluid champagne-pic">
                 </div>
                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12 mb20">
                     <h2 class="welcomeText"><strong><span class="firstLetter">C</span>orporate Events</strong></h2>
                     <p>
-                        Bluffhill Hiring Services specialises in corporate events and have been wowing clients throughout Zimbabwe. Why not come to us for all your corporate entertainment ideas? Whether you have a Charity Dinner, Christmas Party or Team Building Lunch, we have the corporate entertainment ideas that add that extra sparkle to make your event stand out from the crowd.
+                        For many businesses, wasting valuable time and staff organising corporate events is simply not cost effective – especially when employees often have no formal training or expertise. By outsourcing your event to Bluffhill you are guaranteed an expertly produced function that will not only impress, but also quite simply save you money. BLUFFHILL corporate event management services are unrivalled in their professionalism and dedication to your company’s objectives. We are acutely aware that our performance and end result is ultimately a reflection of your own brand identity and corporate image. It is therefore our goal to transcend all expectations, and through our entertainment expertise, present your business in a new light. Our client list is unsurpassed, and our production team and event designers can work with you to produce office parties, seminars, client receptions, and outdoor shows. Our initial consultation is always free, and we would be happy to put together a proposal at any time.
+
 
                     </p>
                     <p>
@@ -104,9 +80,7 @@
                 <div class="col-xl-6 col-lg-6 col-sm-6 ">
                     <div class="venue-categories-block zoomimg">
                         <div class="venue-categories-img">
-                            <a href="#">
-                                <img src="http://via.placeholder.com/920x500" alt="" class="img-fluid">
-                            </a>
+                                <img src="{{asset('images/conference.jpg')}}" alt="" class="img-fluid img-width">
                         </div>
                     </div>
                     <!-- /.venue-categoris-block-->
@@ -117,7 +91,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
+                                        <img src="{{asset('images/corp1.jpg')}}" alt="" class="img-fluid img-width">
                                     </a>
                                      
                                 </div>
@@ -127,35 +101,35 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
+                                        <img src="{{asset('images/corp2.jpg')}}" alt="" class="img-fluid img-width">
                                     </a>
                                      
                                 </div>
                             </div>
                         </div>
+                        
+                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
+                            <div class="venue-categories-block zoomimg">
+                                <div class="venue-categories-img">
+                                    <a href="#">
+                                        <img src="{{asset('images/corp3.jpg')}}" alt="" class="img-fluid img-width">
+                                    </a>
+                                     
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
+                            <div class="venue-categories-block zoomimg">
+                                <div class="venue-categories-img">
+                                    <a href="#">
+                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid img-width">
+                                    </a>
+                                     
+                                </div>
+                            </div>
+                        </div>                        
                     </div>
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
-                            <div class="venue-categories-block zoomimg">
-                                <div class="venue-categories-img">
-                                    <a href="#">
-                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
-                                    </a>
-                                     
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
-                            <div class="venue-categories-block zoomimg">
-                                <div class="venue-categories-img">
-                                    <a href="#">
-                                        <img src="http://via.placeholder.com/440x230" alt="" class="img-fluid">
-                                    </a>
-                                     
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <!-- /.venue-categoris-block-->
                 </div>
             </div>

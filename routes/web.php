@@ -15,3 +15,5 @@ Route::resource('/','PagesController');
 Route::get('/corporate-events','PagesController@corporate');
 Route::get('/wedding-parties','PagesController@wedding');
 Route::get('/private-parties','PagesController@privateParties');
+Route::get('/catering','PagesController@catering');
+Route::get('/contact-us','PagesController@contact');

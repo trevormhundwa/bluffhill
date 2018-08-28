@@ -76,6 +76,9 @@
                                 <li>
                                     <a href="/wedding-parties" title="">Wedding Parties</a>
                                 </li>
+                                <li>
+                                    <a href="/catering" title="">Catering</a>
+                                </li>
                             </ul>
                         </li>
                         <li><a href="#">About Us</a></li>
@@ -160,6 +163,9 @@
 <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="{{asset('js/jquery.min.js')}}"></script>
+<script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+<script src="{{asset('js/jquery.fireworks.js')}}"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="{{asset('js/bootstrap.min.js')}}"></script>
 <script src="{{asset('js/menumaker.min.js')}}"></script>

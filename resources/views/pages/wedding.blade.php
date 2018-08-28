@@ -72,14 +72,12 @@
                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12 mb20">
                     <h2 class="welcomeText"><strong><span class="firstLetter">W</span>edding Parties</strong></h2>
                     <p>
-                        The Bluffhill Company specialise in corporate events and have been wowing clients throughout the UK and Europe for over a decade. Why not come to us for all your corporate entertainment ideas? Whether you have a Charity Dinner, Christmas Party, Exhibition or Summer Ball, we have the corporate entertainment ideas that add that extra sparkle and glitz to make your event stand out from the crowd.
-                    </p>
-                    <p>
-                        Why not get your pulses racing with a ‘day at the races’ corporate race night? Or zip around the track with our giant Scalextrics, just one of many exciting events available from our big indoor games packages.
+                        With the vast experience that our staff possess we can help you plan the best wedding reception one can think of. Creativity within our company has helped us establish a competitive stance towards such events. We have a wide selection of linings and trimmings for our marquees, and the range is constantly updated monthly to  help keep up with the latest fashion trends. We have different equipments for different occasions so as to satisfy  different cultures & taste, Starlit ceilings, coloured roof linings and drapes all helpcreate an everlasting atmosphere. BHS offers you beautiful outlines of different receptions and we also help develop your idea of an ideal reception based on your opinions. We go that extra mile in helping you turn that reception into a Royal Occasion.
 
                     </p>
                     <p>
-                        Building the perfect corporate event  takes time and resources, why not choose from the selection below to get corporate entertainment ideas for your next event. For further advise, call our event architects who design bespoke events from the ground up!
+                        Whether your dream wedding is a lavish celebration or an intimate gathering, we can help you plan each element of your unique event from concept to completion, keeping you very much involved (or not if you prefer!).
+
                     </p>
                 </div>
                 <!-- /.feature-1 -->
@@ -87,6 +85,7 @@
         </div>
     </div>
     <!-- /.feature-section -->
+
 
     <!-- venue-categoris-section-->
     <div class="space-small">
@@ -96,7 +95,7 @@
                     <div class="section-title text-center">
                         <!-- section title start-->
                         <h2 class="welcomeText mb10"><strong><span class="firstLetter">O</span>ur Past Events</strong></h2>
-                        <p>You can browse some of our previous corporate events</p>
+                        <p>You can browse some of our previous wedding parties</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -107,7 +106,7 @@
                     <div class="venue-categories-block zoomimg">
                         <div class="venue-categories-img">
                             <a href="#">
-                                <img src="http://via.placeholder.com/750x440" alt="" class="img-fluid">
+                                <img src="http://via.placeholder.com/750x450" alt="" class="img-fluid">
                             </a>
                         </div>
                     </div>
@@ -119,17 +118,17 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-sm-6 ">
+                        <div class="col-xl-6 col-lg-6 col-sm-6">
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
@@ -141,7 +140,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
@@ -151,7 +150,7 @@
                             <div class="venue-categories-block zoomimg">
                                 <div class="venue-categories-img">
                                     <a href="#">
-                                        <img src="http://via.placeholder.com/350x200" alt="" class="img-fluid">
+                                        <img src="http://via.placeholder.com/350x220" alt="" class="img-fluid">
                                     </a>
 
                                 </div>
